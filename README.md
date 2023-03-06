@@ -8,6 +8,7 @@ Automatically time track spent on apps or sites
 ## Sub goals:
 * Track time spent in VS code
 * Track time spent in Chrome
+* small change
 
 
 ## Activaties:
