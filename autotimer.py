@@ -9,5 +9,5 @@ while True:
     if active_window_name != new_window_name:
         active_window_name = new_window_name
         print(active_window_name)
-    
+        # Second activate to get active window
     time.sleep(2)
